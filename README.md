@@ -1,3 +1,6 @@
+>Note: This is my first mini hands-on learning activity in Swift and SwiftUI back in 2024 when I'm getting back into IOS development. 
+>
+
 # SwiftNameCard
 
 This Swift Playground project demonstrates the use of **SceneKit** to display a 3D model of a fish (as an example) and features a dynamic quote generator. The app displays a 3D model that can be manipulated with camera controls, and a button generates a random quote when tapped.
